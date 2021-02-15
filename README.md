@@ -1,7 +1,8 @@
 ### Hi there I'm Fatih 😄
 
-- ❤ love working on data.
 - ❤ love working on web development.
+- ❤ love working on data.
+
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-haz%C4%B1r-01b144182/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fatihazir)
