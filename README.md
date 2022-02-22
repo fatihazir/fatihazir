@@ -1,7 +1,8 @@
 ### Hi there I'm Fatih 😄
 - ❤ love working on cross-platform mobile development.
-- ❤ love working on web development.
 - ❤ love working on data.
+- ❤ love working on web development.
+
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-haz%C4%B1r-01b144182/)
