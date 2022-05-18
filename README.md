@@ -1,7 +1,7 @@
 ### Hi there I'm Fatih 😄
 - ❤ love working on cross-platform mobile development.
 - ❤ love working on data.
-- ❤ love working on web development.
+- ❤ love working on figuring know hows.
 
 
 
